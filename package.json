@@ -11,5 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraclemirex/git-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miraclemirex/git-test/issues"
   }
 }
